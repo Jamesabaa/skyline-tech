@@ -1,0 +1,31 @@
+table{
+width: 80%;
+}
+
+table, td, th{
+border: 1px solid;
+border-collapse: collapse;
+border-color: antiquewhite;
+}
+
+td, th{
+padding: 7px;
+}
+
+th{
+background-color: dodgerblue;
+color: white;
+}
+
+tr:nth-child(even){
+background-color: lightgray;
+}
+
+tr:hover{
+background-color: gray;
+}
+
+.tab{
+width: 80%;
+margin: auto;
+}
