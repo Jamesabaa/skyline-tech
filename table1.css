@@ -1,0 +1,93 @@
+/* th{
+background-color: dodgerblue;
+} */
+
+table, th, td{
+border-collapse: collapse;
+border-bottom: 1px solid;
+border-color: lightgray;
+}
+
+table{
+width: 90%;
+font-size: 20px;
+}
+
+th, td{
+padding: 10px;
+}
+
+th{
+background-color: dodgerblue;
+color: white;
+}
+
+.pass1{
+padding: 2px;
+border: 4px;
+background-color: green;
+color: white;
+border-radius: 3px;
+}
+
+.grade1{
+padding: 2px;
+border: 3px 5px;
+background-color: green;
+border-radius: 4px;
+color: white;
+}
+
+.pass2{
+    padding: 2px;
+    border: 4px;
+    background-color: goldenrod;
+    color: white;
+    border-radius: 3px;
+    }
+
+    .grade2{
+        padding: 2px;
+        border: 3px 5px;
+        background-color: goldenrod;
+        border-radius: 4px;
+        color: white;
+        }
+
+        .pass3{
+            padding: 2px;
+            border: 4px;
+           background-color: red;
+            color: white;
+            border-radius: 3px;
+            }
+            .grade3{
+                padding: 2px;
+                border: 3px 5px;
+            background-color: red;
+                border-radius: 4px;
+                color: white;
+                }
+
+                .pass4{
+                    padding: 2px;
+                    border: 4px;
+                   background-color: green;
+                    color: white;
+                    border-radius: 3px;
+                    }
+
+                    .grade4{
+                        padding: 2px;
+                        border: 3px 5px;
+                    background-color: green;
+                        border-radius: 4px;
+                        color: white;
+                        }
+   
+                        .tab{
+        width: 80%;
+        margin: auto;
+                        }
+
+                    
